@@ -1,0 +1,2 @@
+# pintool-test
+simple function
